@@ -28,3 +28,8 @@ To cancel the Pick-n-Drop, just press the ESC key or drop anywhere other than a 
 To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For example, the class can be dropped on the Class Context Tool.
 
 [Pick-n-drop example video ](https://player.vimeo.com/video/522514198)
+
+## Code Analysis Tool
+Click the Analyze toolbar button and perform analysis. Double-click issue to be taken to them in code. Fix them and re-run the Analyzer to see if issues remain.
+
+[Quick CA demo video](https://player.vimeo.com/video/52252581)
