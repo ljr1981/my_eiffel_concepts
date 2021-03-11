@@ -25,4 +25,4 @@ To cancel the Pick-n-Drop, just press the ESC key or drop anywhere other than a 
 
 To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For example, the class can be dropped on the Class Context Tool.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/522514198" width="640" height="438" frameborder="0" allowfullscreen></iframe>
+[Pick-n-drop example video](https://player.vimeo.com/video/522514198)
