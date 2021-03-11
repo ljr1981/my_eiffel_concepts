@@ -32,4 +32,4 @@ To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For examp
 ## Code Analysis Tool
 Click the Analyze toolbar button and perform analysis. Double-click issue to be taken to them in code. Fix them and re-run the Analyzer to see if issues remain.
 
-[Quick CA demo video](https://player.vimeo.com/video/52252581)
+[Quick CA demo video](https://player.vimeo.com/video/522525817)
