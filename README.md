@@ -15,6 +15,8 @@ Click the "Search ..." button and then type "pick" in the Filter.
 
 Find the "General.Pick and drop (pnd).mode" and ensure the Literal Value is set to "True" (checked on).
 
+[Setting Pick-n-Drop Prefs example video](https://vimeo.com/522514198)
+
 ### Using Pick-n-Drop
 it's all about things that are "Pickable" and their "Legal Drop-targets"—that is—where you can legally "drop" the pebble that appears when you start the PnD.
 
@@ -25,4 +27,4 @@ To cancel the Pick-n-Drop, just press the ESC key or drop anywhere other than a 
 
 To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For example, the class can be dropped on the Class Context Tool.
 
-[Pick-n-drop example video](https://player.vimeo.com/video/522514198)
+[Pick-n-drop example video ](https://player.vimeo.com/video/522514198)
