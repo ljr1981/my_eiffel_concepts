@@ -96,3 +96,6 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 
 [Class Context Invariants Video](https://player.vimeo.com/video/522812608)
 
+* Creators (Constructor methods)
+
+[Class Context Creators Video](https://player.vimeo.com/video/522815495)
