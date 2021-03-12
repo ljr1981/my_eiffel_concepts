@@ -99,3 +99,8 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 * Creators (Constructor methods)
 
 [Class Context Creators Video](https://player.vimeo.com/video/522815495)
+
+* Deferred features (attributes/routines without implementation code)
+
+[Class Context Deferred Video](https://player.vimeo.com/video/522819542)
+
