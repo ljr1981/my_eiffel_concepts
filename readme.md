@@ -69,3 +69,14 @@ The Eiffel Studio IDE consists of a number of core parts. These can be roughly s
 Understanding the Eiffel Studio IDE means understanding common workflows. Typical workflows will involve the GUI items from the list above. The items below presume a project to already be open in the IDE.
 
 * New Class
+
+## Class Context Tool
+The Class Context Tool allows you to explore various aspects of your Eiffel classes. For example, the first four buttons of the Class tool are:
+
+* Clickable View
+* Flat View
+* Contract View
+* Interface View
+
+[Class Context Views Video](https://player.vimeo.com/video/522785011)
+
