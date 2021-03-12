@@ -16,12 +16,9 @@ In Eiffel Studio, click Tools --> Preferences.
 
 Click the "Search ..." button and then type "pick" in the Filter.
 
-Find the "General.Pick and drop (pnd).mode" and ensure the Literal Value is set to "True" (checked on).
+Find the "General.Pick and drop (pnd).mode" and ensure the Literal Value is set to "True" (checked on)
 
-https://user-images.githubusercontent.com/1668502/110876618-d930c980-82a5-11eb-9a2a-6e2ffe5f3d53.mp4
-
-https://user-images.githubusercontent.com/1668502/110876662-f06fb700-82a5-11eb-93d2-9065ced0e895.mp4
-
+[Setting Pick-n-Drop Prefs example video](https://player.vimeo.com/video/522518751)
 
 ### Using Pick-n-Drop
 it's all about things that are "Pickable" and their "Legal Drop-targets"—that is—where you can legally "drop" the pebble that appears when you start the PnD.
@@ -33,9 +30,42 @@ To cancel the Pick-n-Drop, just press the ESC key or drop anywhere other than a 
 
 To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For example, the class can be dropped on the Class Context Tool.
 
-https://user-images.githubusercontent.com/1668502/110876680-fa91b580-82a5-11eb-87d6-f96f5d6f47a1.mp4
+[Pick-n-drop example video ](https://player.vimeo.com/video/522514198)
 
 ## Code Analysis Tool
 Click the Analyze toolbar button and perform analysis. Double-click issue to be taken to them in code. Fix them and re-run the Analyzer to see if issues remain.
 
-https://user-images.githubusercontent.com/1668502/110876735-1b5a0b00-82a6-11eb-91c2-13d028648169.mp4
+[Quick CA demo video](https://player.vimeo.com/video/522525817)
+
+
+# IDE Core Tools
+The Eiffel Studio IDE consists of a number of core parts. These can be roughly summed up in a bullet-list of the most interesting of each.
+
+* Menus
+	* Project
+	* Execution
+	* Tools
+* Toolbars
+	* Project Settings
+	* Compile
+	* Analyze
+	* Run
+* Editor
+	* One tab per class
+	* Tabs docking
+* Views
+	* Groups View (of project)
+	* Features View (current Editor tab)
+	* AutoTest Tool
+	* Favorites List
+* Context Tools
+	* Class
+	* Feature
+	* Outputs
+	* Error List
+	* AutoTest Results
+
+## Core Workflow
+Understanding the Eiffel Studio IDE means understanding common workflows. Typical workflows will involve the GUI items from the list above. The items below presume a project to already be open in the IDE.
+
+* New Class
