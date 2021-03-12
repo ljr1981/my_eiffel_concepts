@@ -70,6 +70,8 @@ Understanding the Eiffel Studio IDE means understanding common workflows. Typica
 
 * New Class
 
+[Create New Class Video](https://player.vimeo.com/video/522952985)
+
 ## Class Context Tool
 The Class Context Tool allows you to explore various aspects of your Eiffel classes. For example, the first four buttons of the Class tool are:
 
