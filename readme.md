@@ -92,3 +92,7 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 
 [Class Context Attribute and Routine Video](https://player.vimeo.com/video/522798002)
 
+* Invariants
+
+[Class Context Invariants Video](https://player.vimeo.com/video/522812608)
+
