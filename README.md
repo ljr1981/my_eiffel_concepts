@@ -33,3 +33,47 @@ To complete the Pick-n-Drop, drop the pebble onto a legal drop target. For examp
 Click the Analyze toolbar button and perform analysis. Double-click issue to be taken to them in code. Fix them and re-run the Analyzer to see if issues remain.
 
 [Quick CA demo video](https://player.vimeo.com/video/522525817)
+
+# IDE Core Tools
+The Eiffel Studio IDE consists of a number of core parts. These can be roughly summed up in a bullet-list of the most interesting of each.
+
+* Menus
+	* Project
+	* Execution
+	* Tools
+* Toolbars
+	* Project Settings
+	* Compile
+	* Analyze
+	* Run
+* Editor
+	* One tab per class
+	* Tabs docking
+* Views
+	* Groups View (of project)
+	* Features View (current Editor tab)
+	* AutoTest Tool
+	* Favorites List
+* Context Tools
+	* Class
+	* Feature
+	* Outputs
+	* Error List
+	* AutoTest Results
+
+## Core Workflow
+Understanding the Eiffel Studio IDE means understanding common workflows. Typical workflows will involve the GUI items from the list above. The items below presume a project to already be open in the IDE.
+
+* New Class
+	* Double-click Editor tab-bar --> New Class Dialog
+	* Compile (Alt + F8) 
+* Write-Compile-Test
+	* Write class code
+	* Compile (F7) or Freeze (Ctrl + F7)
+	* Write test code
+	* Compile ...
+	* Test run --> Pass or FAIL
+	* Fix failure and rinse-and-repeat this list
+* Periodic Code Freezing
+	* 
+* Periodic Code Analysis
