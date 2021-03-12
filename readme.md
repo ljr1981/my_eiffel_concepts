@@ -104,3 +104,8 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 
 [Class Context Deferred Video](https://player.vimeo.com/video/522819542)
 
+* Once features (constants or routine singletons)
+
+[Class Context Once function Video](https://player.vimeo.com/video/522824157)
+
+
