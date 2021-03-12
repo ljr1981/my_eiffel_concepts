@@ -108,4 +108,7 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 
 [Class Context Once function Video](https://player.vimeo.com/video/522824157)
 
+* Instance-free Features
+
+[Class Context Instance-free Video](https://player.vimeo.com/video/522896219)
 
