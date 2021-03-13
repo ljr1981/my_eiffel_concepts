@@ -136,3 +136,13 @@ The Feature Context Tool allows you to explore various aspects of the features o
 * Callers
 
 [Feature Context Callers Video](https://player.vimeo.com/video/523156758)
+
+* Inheritance Views
+	* Implementors -- who provides code in what class?
+	* Ancestors (parents) -- what parents have what version?
+	* Descendants (children) -- what children inherit this feature in what class?
+	* Homonym's -- what classes have the same feature name but non-related?
+
+[Feature Context Inheritance Video](https://player.vimeo.com/video/523230801)
+
+
