@@ -118,4 +118,7 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 
 [Class Context Externals Video](https://player.vimeo.com/video/522902554)
 
+* Exported features (like public, private, protected, hidden)
+
+[Class Context Exported Video](https://player.vimeo.com/video/523142196)
 
