@@ -123,6 +123,9 @@ The Class Context Tool allows you to explore various aspects of your Eiffel clas
 [Class Context Exported Video](https://player.vimeo.com/video/523142196)
 
 ## Feature Context Tool
+
+[Feature Context Overview Video](https://player.vimeo.com/video/523162219)
+
 The Feature Context Tool allows you to explore various aspects of the features of your Eiffel classes. For example, the first two buttons of the Feature tool are:
 
 * Basic Text View
