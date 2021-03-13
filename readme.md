@@ -73,7 +73,7 @@ Understanding the Eiffel Studio IDE means understanding common workflows. Typica
 [Create New Class Video](https://player.vimeo.com/video/522952985)
 
 
-## Class Context Tool
+## Class Context Tools
 
 [Context Tools Overview Video](https://player.vimeo.com/video/523289049)
 
