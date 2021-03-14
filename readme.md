@@ -70,7 +70,7 @@ Understanding the Eiffel Studio IDE means understanding common workflows. Typica
 
 * New Class [Create New Class Video](https://player.vimeo.com/video/522952985)
 * Compiling [Compile Overview Video](https://player.vimeo.com/video/523303904)
-
+* Opening & Compiling [Open & Compile Overview Video](https://player.vimeo.com/video/523448308)
 
 ## Class Context Tools
 
