@@ -75,7 +75,7 @@ Understanding the Eiffel Studio IDE means understanding common workflows. Typica
 
 ## Class Context Tools
 
-[Context Tools Overview Video](https://player.vimeo.com/video/523289049)
+[Context Tools Overview Video](https://player.vimeo.com/video/523299768)
 
 The Class Context Tool allows you to explore various aspects of your Eiffel classes. For example, the first four buttons of the Class tool are:
 
