@@ -68,9 +68,8 @@ The Eiffel Studio IDE consists of a number of core parts. These can be roughly s
 ## Core Workflow
 Understanding the Eiffel Studio IDE means understanding common workflows. Typical workflows will involve the GUI items from the list above. The items below presume a project to already be open in the IDE.
 
-* New Class
-
-[Create New Class Video](https://player.vimeo.com/video/522952985)
+* New Class [Create New Class Video](https://player.vimeo.com/video/522952985)
+* Compiling [Compile Overview Video](https://player.vimeo.com/video/523303904)
 
 
 ## Class Context Tools
